@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    padding: 10px;
+}
+
+table {
+    padding-left: 100px;
+    padding-right: 500px;
+}
+
+td {
+    width: 200px;
+    padding: 5px;
+    text-align: left;  
+}
+
+th {
+    width: 10px;
+}
+
+th.header {
+    padding: 20px;
+    font-size: 2em;
+    text-align: center;
+}
+
+form {
+    padding-left: 10px;
+    padding-right: 500px;
+}
